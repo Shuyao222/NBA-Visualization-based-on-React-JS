@@ -1,0 +1,9 @@
+.data-view {
+    width: 100%;
+    margin-top: -50px;
+}
+
+.filters {
+    width: 50%;
+    margin: auto;
+}
